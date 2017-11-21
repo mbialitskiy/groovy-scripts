@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jenkins-core-2.73.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/Jenkins/jenkins-core-2.73.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

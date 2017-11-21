@@ -1,0 +1,8 @@
+{
+    "username": "jenkins",
+    "password": "jenkins",
+    "url": "http://172.28.128.11:8081",
+    "rep_name": "hello-world",
+    "proj_name": "hello-world",
+    "group_name": "hello-world"
+}
